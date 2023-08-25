@@ -55,6 +55,8 @@ markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
+  - attr_list
+  - md_in_html
 
 copyright: |
   &copy; 2023 <a href="https://www.vultureprime.com/data-course/data-engineer-basic-level-syllabus"  target="_blank" rel="noopener">valtureprime</a>
